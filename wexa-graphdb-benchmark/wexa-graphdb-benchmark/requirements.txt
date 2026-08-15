@@ -1,0 +1,6 @@
+neo4j==5.24.0
+falkordb==1.0.9
+python-arango==8.1.2
+python-dotenv==1.0.1
+requests==2.32.3
+tqdm==4.66.5
