@@ -3,8 +3,7 @@
 A reproducible benchmark comparing **CognoDB Cloud** against four other managed
 graph database platforms on identical hardware tiers, identical data, and
 identical query workloads.
-
-> Built for the Wexa AI take-home assignment. See `ANALYSIS.md` (generated
+See `ANALYSIS.md` (generated
 > after a run) for the write-up of findings.
 
 ## Platforms compared
